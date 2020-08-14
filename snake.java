@@ -1,9 +1,7 @@
 /*
     Author :    
-            Suraj Singh Bisht
-            surajsinghbisht054@gmail.com
-            www.bitforestinfo.com
-            www.blaregroup.com
+            Vasu Goel
+            vashugoyal42@gmail.com
     =============================================
                 Snake Game
     =============================================
